@@ -18,7 +18,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2] to stay updated and follow along with my journey.
+> You can find me on [![LinkedIn][2.2]][2] to stay updated and follow along with my journey.
 
 <!-- Icons -->
 
