@@ -22,7 +22,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
