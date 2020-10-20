@@ -22,6 +22,16 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 8 | [find Largest sum contiguous Subarray V. IMP](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 9 | [Minimise the maximum difference between heights V.IMP](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
 | 10 | [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
+| 11 | [find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 12 | [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
+| 13 | [Kadane's Algo [V.V.V.V.V IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 14 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 15 | [Next Permutation ](https://leetcode.com/problems/next-permutation/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 16 | [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)         | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_ | _-_ | -       | XXXX |
+| 17 | [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Pending variations |
+| 18 | [find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 19 | [find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 20 | [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 
 
 
