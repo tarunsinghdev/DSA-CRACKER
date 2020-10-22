@@ -32,6 +32,16 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 18 | [find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 19 | [find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 20 | [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 21 | [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 22 | [Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       |  |
+| 23 | [find maximum product subarray ](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 24 | [Find longest coinsecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 25 | [Given an array of size n and a number k, fin all elements that appear more than " n/k " times.](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)         | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_ | _-_ | -       | XXXX |
+| 26 | [Maximum profit by buying and selling a share atmost twice](https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 27 | [Find whether an array is a subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | 
+| 28 | [Find the triplet that sum to a given value](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 29 | [Trapping Rain water problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
+| 30 | [Chocolate Distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 
 
 
