@@ -3,7 +3,7 @@
 <a href="https://github.com/TarunSingh56/DSA-CRACKER/network/members"><img src="https://img.shields.io/github/forks/TarunSingh56/DSA-CRACKER" alt="Forks Badge"/></a>
 <a href="https://github.com/TarunSingh56/DSA-CRACKER/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TarunSingh56/DSA-CRACKER?color=2b9348"></a>
 
-**_If you appreciate my effort, please star this repository. It motivates me. :rocket: :rocket:_** 
+**_If you appreciate my work, please star this repository. It motivates me. :rocket: :rocket:_** 
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 This is an attempt to solve 450 questions carefully curated by our very own **[Love Babbar](https://www.youtube.com/watch?v=4iFALQ1ACdA)**.
