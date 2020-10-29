@@ -50,10 +50,33 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 34 | [Minimum no. of operations required to make an array palindrome](https://practice.geeksforgeeks.org/problems/palindromic-array/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 35 | [Median of 2 sorted arrays of equal size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
 | 36 | [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)         | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_ | _-_ | -       | XXXX |
-| 37 | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | 
-| 38 | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
-| 39 | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
-| 40 | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+
+
+## Matrix
+
+| #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Note      |
+| ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --------- |
+| 1 | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | 
+| 2 | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 3 | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
+| 4 | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+
+
+## Stacks & Queues
+
+| #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Note      |
+| ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --------- |
+| 1 | [ Implement Stack from Scratch](https://www.tutorialspoint.com/javaexamples/data_stack.htm)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | 
+| 2 | [https://www.tutorialspoint.com/javaexamples/data_stack.htm](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 3 | [Implement 2 stack in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 4 | [Find the middle element of a stack](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)         | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_ | _-_ | -       | - |
+| 5 | [Implement "N" stacks in an Array](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | 
+| 6 | [Check the expression has valid or Balanced parenthesis or not.](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 7 | [Reverse a String using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 8 | [Design a Stack that supports getMin() in O(1) time and O(1) extra space.](https://practice.geeksforgeeks.org/problems/special-stack/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 9 | [Find the next Greater element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 10 | [The celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+
 
 
 
