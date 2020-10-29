@@ -1,3 +1,7 @@
+
+//Time Complexity : O(32 * r * log(c))
+//Space Complexity : O(1)
+
 class Solution{   
 public:
     int median(vector<vector<int>> &matrix, int r, int c){

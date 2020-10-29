@@ -3,6 +3,8 @@
 <a href="https://github.com/TarunSingh56/DSA-CRACKER/network/members"><img src="https://img.shields.io/github/forks/TarunSingh56/DSA-CRACKER" alt="Forks Badge"/></a>
 <a href="https://github.com/TarunSingh56/DSA-CRACKER/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TarunSingh56/DSA-CRACKER?color=2b9348"></a>
 
+**_If you appreciate my work, please star this repository. It motivates me. :rocket: :rocket:_** 
+
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 This is an attempt to solve 450 questions carefully curated by our very own **[Love Babbar](https://www.youtube.com/watch?v=4iFALQ1ACdA)**.
 
@@ -42,6 +44,16 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 28 | [Find the triplet that sum to a given value](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 29 | [Trapping Rain water problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
 | 30 | [Chocolate Distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 31 | [Smallest Subarray with sum greater than a given value](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0)         | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_ | _-_ | -       | XXXX |
+| 32 | [Three way partitioning of an array around a given value](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       |  |
+| 33 | [Minimum swaps required bring elements less equal K together ](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 34 | [Minimum no. of operations required to make an array palindrome](https://practice.geeksforgeeks.org/problems/palindromic-array/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 35 | [Median of 2 sorted arrays of equal size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
+| 36 | [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)         | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_ | _-_ | -       | XXXX |
+| 37 | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | 
+| 38 | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 39 | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
+| 40 | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 
 
 
