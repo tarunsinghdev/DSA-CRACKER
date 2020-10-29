@@ -3,14 +3,18 @@
 <a href="https://github.com/TarunSingh56/DSA-CRACKER/network/members"><img src="https://img.shields.io/github/forks/TarunSingh56/DSA-CRACKER" alt="Forks Badge"/></a>
 <a href="https://github.com/TarunSingh56/DSA-CRACKER/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TarunSingh56/DSA-CRACKER?color=2b9348"></a>
 
-**_If you appreciate my work, please star this repository. It motivates me. :rocket: :rocket:_** 
+**_If you appreciate my work, please 🌟 this repository. It motivates me. :rocket: :rocket:_** 
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 This is an attempt to solve 450 questions carefully curated by our very own **[Love Babbar](https://www.youtube.com/watch?v=4iFALQ1ACdA)**.
 
+## Topics
 
+- [Array](#array)
+- [Matrix](#matrix)
+- [Stack & Queue](#stackqueue)
 
-## Arrays
+## Array
 
 | #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Note      |
 | ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --------- |
@@ -51,6 +55,11 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 35 | [Median of 2 sorted arrays of equal size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
 | 36 | [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)         | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_ | _-_ | -       | XXXX |
 
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Matrix
 
@@ -61,8 +70,13 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 3 | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | Revisit |
 | 4 | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
-## Stacks & Queues
+## StackQueue
 
 | #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Note      |
 | ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --------- |
@@ -77,6 +91,11 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 9 | [Find the next Greater element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 10 | [The celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 
 
