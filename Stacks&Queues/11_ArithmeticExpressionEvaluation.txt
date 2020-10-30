@@ -1,0 +1,16 @@
+
+Most frequently used expressions are written in infix notation i.e operator lies between the two operand.
+For eg : (A + B) * C is an infix expression.
+We need to put parenthesis in the order in which we want to perform the operations and also make use of
+operator precedence rule.
+Though infix expressions gives readability to humans but for the machines it adds extra burden of handling
+the parenthesis and operator precedence rules.
+
+Postfix expressions are usually used by our machinese. In this, operator comes after the operands.
+For eg : AB+C* .There is no need of maitaining parenthesis or remembering the operator precedence.
+
+Prefix expressions as the name suggests are expressions in which operators occur before the operand.
+For eg : *+ABC
+
+NOTE : One main thing to note is that while converting from infix to postfix or from any conversion
+       to other conversion the order of operands in the final expression is always the same.
