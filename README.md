@@ -7,6 +7,10 @@
 
 #### :red_circle: :red_circle: IMPORTANT : If you forked this repo and want to be updated with the changes made to this repo refer [How do I update a GitHub forked repository?](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
 
+###    :arrow_forward: Update Corner
+- Added 5 questions in the [Stack & Queue](#stackqueue) topic from question 11 to 15 on 30 Oct.
+
+
 # :gift: You Can Contribute. 
 #### Make a pull request :
 - If you think you have the better optimal solution.
@@ -97,6 +101,11 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 8 | [Design a Stack that supports getMin() in O(1) time and O(1) extra space.](https://practice.geeksforgeeks.org/problems/special-stack/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 9 | [Find the next Greater element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 10 | [The celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 11 | [Arithmetic Expression evaluation](https://www.geeksforgeeks.org/arithmetic-expression-evalution/#:~:text=The%20stack%20organization%20is%20very,i.e.%2C%20A%20%2B%20B)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 12 | [Evaluation of Postfix expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 13 | [Implement a method to insert an element at its bottom without using any other data structure.](https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 14 | [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 15 | [Sort a Stack using recursion](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 
 <br/>
 <div align="right">
