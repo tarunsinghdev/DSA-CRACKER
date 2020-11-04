@@ -8,7 +8,7 @@
 #### :red_circle: :red_circle: IMPORTANT : If you forked this repo and want to be updated with the changes made to this repo refer [How do I update a GitHub forked repository?](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
 
 ###    :arrow_forward: Update Corner
-- Added 5 questions in the [Stack & Queue](#stackqueue) topic from question 11 to 15 on 30 Oct.
+- I was unwell from past few days. I am recovering. Added 5 questions in the [Stack & Queue](#stackqueue) topic from question 16 to 20 on 4 Nov.
 
 
 # :gift: You Can Contribute. 
@@ -106,6 +106,11 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 13 | [Implement a method to insert an element at its bottom without using any other data structure.](https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 14 | [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
 | 15 | [Sort a Stack using recursion](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _-_ | _-_ | -       | - |
+| 16 | [Merge Overlapping Intervals](https://practice.geeksforgeeks.org/problems/overlapping-intervals/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _O(n*logn)_ | _O(1)_ | -       | - |
+| 17 | [Largest rectangular Area in Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)         | <img src="https://bit.ly/359zYC8" width="30px"> | _O(n)_ | _O(n)_ | -       | - |
+| 18 | [Length of the Longest Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _O(n)_ | _O(1)_ | -       | - |
+| 19 | [Expression contains redundant bracket or not](https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/)         | <img src="https://bit.ly/359zYC8" width="30px"> | _O(n)_ | _O(n)_ | -       | - |
+| 20 | [Implement Stack using Queue](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)         | <img src="https://bit.ly/359zYC8" width="30px"> | _O(n)_ | _O(n)_ | -       | - |
 
 <br/>
 <div align="right">
