@@ -8,7 +8,7 @@
 #### :red_circle: :red_circle: IMPORTANT : If you forked this repo and want to be updated with the changes made to this repo refer [How do I update a GitHub forked repository?](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
 
 ###    :arrow_forward: Update Corner
-- I was unwell from past few days. I am recovering. Added 5 questions in the [Stack & Queue](#stackqueue) topic from question 16 to 20 on 4 Nov.
+- Added 5 questions in the [Stack & Queue](#stackqueue) topic from question 16 to 20.
 
 
 # :gift: You Can Contribute. 
