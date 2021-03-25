@@ -8,9 +8,14 @@
 
 #### :red_circle: :red_circle: IMPORTANT : If you forked this repo and want to be updated with the changes made to this repo refer [How do I update a GitHub forked repository?](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
 
+<<<<<<< HEAD
 ### :arrow_forward: Update Corner
 
 - Added 1 question in the [Backtracking](#backtracking) topic.
+=======
+###    :arrow_forward: Update Corner
+- Added 5 questions in the [Stack & Queue](#stackqueue) topic from question 16 to 20.
+>>>>>>> d36623aa919826e5260ef75d4a8dd6843d848f97
 
 # :gift: You Can Contribute.
 
