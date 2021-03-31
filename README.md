@@ -10,7 +10,7 @@
 
 ### :arrow_forward: Update Corner
 
-- Added 1 question in the [Backtracking](#backtracking) topic.
+- Added **N Queens Problem** in the [Backtracking](#backtracking) topic.
 
 # :gift: You Can Contribute.
 
@@ -28,6 +28,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 - [Array](#array)
 - [Matrix](#matrix)
 - [Stack & Queue](#stackqueue)
+- [Backtracking](#backtracking)
 
 ## Array
 
@@ -124,9 +125,10 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 
 ## Backtracking
 
-| #   | Title                                                                                                              | Solution                                        | Time | Space | Difficulty | Note |
-| --- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 1   | [ Rat In A Maze](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/1_RatInAMazeBacktracking.cpp) | <img src="https://bit.ly/359zYC8" width="30px"> | _-_  | _-_   | -          |
+| #   | Title                                                                                                              | Solution           | Time | Space | Difficulty | Note |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ---- | ----- | ---------- | ---- |
+| 1   | [ Rat In A Maze](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/1_RatInAMazeBacktracking.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
+| 2   | [ N Queens Problem](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/2_NQueenProblem.cpp)       | :heavy_check_mark: | _-_  | _-_   | -          |
 
 <br/>
 <div align="right">
