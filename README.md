@@ -6,11 +6,13 @@
 
 **_If you appreciate my work, please 🌟 this repository. It motivates me. :rocket: :rocket:_**
 
+**DSA CRACKER sheet : [link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)**
+
 #### :red_circle: :red_circle: IMPORTANT : If you forked this repo and want to be updated with the changes made to this repo refer [How do I update a GitHub forked repository?](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
 
 ### :arrow_forward: Update Corner
 
-- Added **N Queens Problem** in the [Backtracking](#backtracking) topic.
+- Added **Topological Sorting** in the [Graphs](#graphs) topic.
 
 # :gift: You Can Contribute.
 
@@ -29,6 +31,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 - [Matrix](#matrix)
 - [Stack & Queue](#stackqueue)
 - [Backtracking](#backtracking)
+- [Graphs](#graphs)
 
 ## Array
 
@@ -129,6 +132,18 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | --- | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ---- | ----- | ---------- | ---- |
 | 1   | [ Rat In A Maze](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/1_RatInAMazeBacktracking.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
 | 2   | [ N Queens Problem](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/2_NQueenProblem.cpp)       | :heavy_check_mark: | _-_  | _-_   | -          |
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Graphs
+
+| #   | Title                                                                                                                                   | Solution           | Time | Space | Difficulty | Note |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- | ----- | ---------- | ---- |
+| 13  | [Implement Topological Sorting](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/13_ImplementTopologicalSorting.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
 
 <br/>
 <div align="right">
