@@ -153,6 +153,20 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 </div>
 <br/>
 
+## Binary Tree
+
+| #   | Title                                                                                                                           | Solution           | Time | Space | Difficulty | Note |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- | ----- | ---------- | ---- |
+| 1   | [Right View of Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/description/)                             | :heavy_check_mark: | o(n) | O(n) | Medium 
+
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+
 <!-- Actual text -->
 
 > You can find me on [![LinkedIn][2.2]][2] to stay updated and follow along with my journey.
