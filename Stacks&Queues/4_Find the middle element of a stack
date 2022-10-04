@@ -1,0 +1,41 @@
+//Time Complexity : O(n)
+//Space Complexity : O(n)
+
+#include <bits/stdc++.h>
+using namespace std;
+
+stack<int> getElementsInStack()
+{
+    int n, a;
+    cin>>n;
+
+    stack<int> s;
+    while(n--)
+    {
+        cin>>a;
+        stack.push(a);
+    }
+    return s;
+}
+
+int getMiddleElementOfStack(stack<int> s)
+{
+    int n = s.size(), middle = n/2;
+    int middleElement;
+    while(middle--)
+    s.pop();
+
+    middleElement = s.top();
+    return middleElement;
+}
+int main() {
+    int t; cin>>t;
+	while(t--){
+	    
+	    stack<int> st;
+        st = getElementsInStack();
+	    int middle = getMiddleElementOfStack(st);
+        cout<<middle<<"\n";
+	}
+	return 0;
+}
