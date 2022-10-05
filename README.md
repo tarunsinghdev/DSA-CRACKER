@@ -143,6 +143,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 
 | #   | Title                                                                                                                          | Solution           | Time | Space | Difficulty | Note |
 | --- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ---- | ----- | ---------- | ---- |
+| 7   | [Minimum Step By Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)                                 | :heavy_check_mark: | _-_  | _-_   | -          |
 | 9   | [Clone A Graph](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/9_CloneAGraph.cpp)                               | :heavy_check_mark: | _-_  | _-_   | -          |
 | 13  | [Implement Topological Sorting](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/13_ImplementTopologicalSort.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
 | 32  | [Cheapest Flights within k stops](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/32_CheapestFlightsWithinKStops.cpp) | :heavy_check_mark: | Quadratic  | Quadratic   | Medium          |
