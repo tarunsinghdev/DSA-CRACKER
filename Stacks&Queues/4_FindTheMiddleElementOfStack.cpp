@@ -3,27 +3,28 @@ using namespace std;
 
 // Function that finds the middle of the stack of size n. Current is current position we’re on
 int middle;
-void findMiddle(stack<int> &s, int n,int current)
-{
-// If stack becomes empty or all items already are traversed
-if (s.empty() || current == n)
-return;
+void findMiddle(stack<int> &s, int n,int current){
+    // If stack becomes empty or all items already are traversed
+    if (s.empty() || current == n){
+        return;
+    }
 
-// Remove current item
-int x = s.top();
-s.pop();
+    // Remove current item
+    int x = s.top();
+    s.pop();
 
-// Call for removing the other items
-findMiddle(s, n, current+1);
+    // Call for removing the other items
+    findMiddle(s, n, current+1);
 
-// Find the middle
-if (current == n/2)
-middle = x;
+    // Find the middle
+    if (current == n/2){
+        middle = x;
+    }
+        
 }
 
-int main()
-{
-stack<int> s;
+int main(){
+    stack<int> s;
 
     //push elements into the stack
     s.push(5);
