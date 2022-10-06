@@ -160,6 +160,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | #   | Title                                                                                                                           | Solution           | Time | Space | Difficulty | Note |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- | ----- | ---------- | ---- |
 | 1   | [Right View of Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/description/)                             | :heavy_check_mark: | o(n) | O(n) | Medium 
+| 2   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                             | :heavy_check_mark: | o(n) | O(n) | Medium 
 
 
 <br/>
