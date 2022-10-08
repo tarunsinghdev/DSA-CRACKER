@@ -131,6 +131,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | --- | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ---- | ----- | ---------- | ---- |
 | 1   | [ Rat In A Maze](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/1_RatInAMazeBacktracking.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
 | 2   | [ N Queens Problem](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/2_NQueenProblem.cpp)       | :heavy_check_mark: | _-_  | _-_   | -          |
+| 3   | [ M coloring Problem](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/3_ColoringProblem.cpp)   | :heavy_check_mark: | O(n^m) | O(n) | -          |
 | 5   | [ Sudoku Solver](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Backtracking/5_SudokuSolver.cpp)       | :heavy_check_mark: | _-_  | _-_   | -          |
 
 <br/>
