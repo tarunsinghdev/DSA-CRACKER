@@ -143,12 +143,12 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 
 | #   | Title                                                                                                                          | Solution           | Time | Space | Difficulty | Note |
 | --- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ---- | ----- | ---------- | ---- |
-| 6   | [Flood fill Algorithm](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/6_Floodfillalgorithm.cpp)                                 | :heavy_check_mark: | _-_  | _-_   | -          |
+| 6   | [Flood fill Algorithm](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/6_Floodfillalgorithm.cpp)                                 | :heavy_check_mark: | _O(n*m)_  | _O(n*m)_   | -          |
 | 7   | [Minimum Step By Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)                                 | :heavy_check_mark: | _-_  | _-_   | -          |
 | 9   | [Clone A Graph](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/9_CloneAGraph.cpp)                               | :heavy_check_mark: | _-_  | _-_   | -          |
 | 13  | [Implement Topological Sorting](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/13_ImplementTopologicalSort.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
 | 22  | [Implement Floyd Warshall Algorithm](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/22_ImplementFloydWarshallAlgorithm.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
-| 25  | [Snake and Ladder Problem](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/25_SnakeandLadderProblem.cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
+| 25  | [Snake and Ladder Problem](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/25_SnakeandLadderProblem.cpp) | :heavy_check_mark: | _O(n)_  | _O(n)_   | -          |
 | 27  | [Strongly Connected Components (Kosaraju's Algo)](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/27_StronglyConnectedComponents(Kosaraju'sAlgo).cpp) | :heavy_check_mark: | _-_  | _-_   | -          |
 | 32  | [Cheapest Flights within k stops](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/32_CheapestFlightsWithinKStops.cpp) | :heavy_check_mark: | Quadratic  | Quadratic   | Medium          |
 
