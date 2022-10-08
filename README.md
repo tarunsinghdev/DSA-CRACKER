@@ -73,7 +73,8 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 34  | [Minimum no. of operations required to make an array palindrome](https://practice.geeksforgeeks.org/problems/palindromic-array/0)                                                                                  | :heavy_check_mark: | _-_  | _-_   | -          | -                  |
 | 35  | [Median of 2 sorted arrays of equal size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)                                                                                                              | :heavy_check_mark: | _-_  | _-_   | -          | Revisit            |
 | 36  | [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)                                                                                       | :heavy_check_mark: | _-_  | _-_   | -          | -                  |
-
+| 37  | [Maximum Product Subarray](https://www.geeksforgeeks.org/maximum-product-subarray/)                                                                                                                                 | :heavy_check_mark: | _-_  | _-_   | -          | -                  |
+                                    
 <br/>
 <div align="right">
     <b><a href="#topics">⬆️ Back to Top</a></b>
