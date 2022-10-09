@@ -153,8 +153,8 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 25  | [Snake and Ladder Problem](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/25_SnakeandLadderProblem.cpp)                                                | :heavy_check_mark: | _O(n)_    | _O(n)_    | -          |
 | 27  | [Strongly Connected Components (Kosaraju's Algo)](<https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/27_StronglyConnectedComponents(Kosaraju'sAlgo).cpp>) | :heavy_check_mark: | _-_       | _-_       | -          |
 | 32  | [Cheapest Flights within k stops](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/32_CheapestFlightsWithinKStops.cpp)                                   | :heavy_check_mark: | Quadratic | Quadratic | Medium     |
+| 37  | [Maximum Product Subarray](https://www.geeksforgeeks.org/maximum-product-subarray/)                                                                                                                                 | :heavy_check_mark: | _-_  | _-_   | -          | -                  |
 | 358 | [searching element in Graph using DFS](https://github.com/tarunsinghdev/DSA-CRACKER/blob/main/Graphs/358_DFS_SearchElement.cpp)                                       | :heavy_check_mark: | _O(V+E)_  | _O(V)_    | Medium     |
-
 <br/>
 <div align="right">
     <b><a href="#topics">⬆️ Back to Top</a></b>
