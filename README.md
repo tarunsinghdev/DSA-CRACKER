@@ -170,7 +170,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 3   | [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)    | :heavy_check_mark: | O(N) | O(log(N)) | Easy       |
 | 4   | [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)    | :heavy_check_mark: | O(N) | O(log(N)) | Easy       |
 | 5   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | :heavy_check_mark: | O(n) | O(n)      | Easy
-
+| 6   | [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | :heavy_check_mark: | O(n) | O(n)      | Medium  |
 <br/>
 <div align="right">
     <b><a href="#topics">⬆️ Back to Top</a></b>
