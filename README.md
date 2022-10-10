@@ -32,6 +32,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 - [Stack & Queue](#stackqueue)
 - [Backtracking](#backtracking)
 - [Graphs](#graphs)
+- [Linked List](#linkedlist)
 
 ## Array
 
@@ -170,6 +171,18 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 3   | [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)    | :heavy_check_mark: | O(N) | O(log(N)) | Easy       |
 | 4   | [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)    | :heavy_check_mark: | O(N) | O(log(N)) | Easy       |
 | 5   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | :heavy_check_mark: | O(n) | O(n)      | Easy
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## LinkedList
+
+| #   | Title                                                                                               | Solution           | Time | Space     | Difficulty | Note |
+| --- | --------------------------------------------------------------------------------------------------- | ------------------ | ---- | --------- | ---------- | ---- |
+| 1   | [Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | :heavy_check_mark: | _-_ | _-_      | Easy     |
 
 <br/>
 <div align="right">
