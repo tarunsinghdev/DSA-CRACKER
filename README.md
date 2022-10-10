@@ -181,7 +181,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 
 | #   | Title                                                                                               | Solution           | Time | Space     | Difficulty | Note |
 | --- | --------------------------------------------------------------------------------------------------- | ------------------ | ---- | --------- | ---------- | ---- |
-| 1   | [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | :heavy_check_mark: | o(N) | O(1)      | Easy     |
+| 1   | [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | :heavy_check_mark: | O(N) | O(1)      | Easy     |
 | 2   | [Find MAximum and Minimum in Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)    | :heavy_check_mark: | O(N) | O(1)) | Easy       |
 | 3   | [Dutch National Flag [ Sort 0's , 1's and 2's without sorting]](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)    | :heavy_check_mark: | O(N) | O(N)) | Easy       |
 
