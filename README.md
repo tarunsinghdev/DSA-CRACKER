@@ -32,6 +32,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 - [Stack & Queue](#stackqueue)
 - [Backtracking](#backtracking)
 - [Graphs](#graphs)
+- [Linked List](#linkedlist)
 
 ## Array
 
@@ -185,11 +186,18 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 2   | [Find MAximum and Minimum in Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)    | :heavy_check_mark: | O(N) | O(1)) | Easy       |
 | 3   | [Dutch National Flag [ Sort 0's , 1's and 2's without sorting]](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)    | :heavy_check_mark: | O(N) | O(N)) | Easy       |
 
+## LinkedList
+
+| #   | Title                                                                                               | Solution           | Time | Space     | Difficulty | Note |
+| --- | --------------------------------------------------------------------------------------------------- | ------------------ | ---- | --------- | ---------- | ---- |
+| 1   | [Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | :heavy_check_mark: | _-_ | _-_      | Easy     |
+
 <br/>
 <div align="right">
     <b><a href="#topics">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
 <!-- Actual text -->
 
 > You can find me on [![LinkedIn][2.2]][2] to stay updated and follow along with my journey.
