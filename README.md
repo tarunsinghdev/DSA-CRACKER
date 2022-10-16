@@ -89,6 +89,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | 2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                                             | :heavy_check_mark: |
 | 3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | :heavy_check_mark: |
 | 4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                           | :heavy_check_mark: |
+| 5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                           | :heavy_check_mark: |
 
 <br/>
 <div align="right">
