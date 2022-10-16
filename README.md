@@ -192,6 +192,7 @@ This is an attempt to solve 450 questions carefully curated by our very own **[L
 | #   | Title                                                                                               | Solution           | Time | Space     | Difficulty | Note |
 | --- | --------------------------------------------------------------------------------------------------- | ------------------ | ---- | --------- | ---------- | ---- |
 | 1   | [Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | :heavy_check_mark: | _-_ | _-_      | Easy     |
+| 2   | [Write a Program to check whether the Singly Linked list is a palindrome or not.](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | :heavy_check_mark: | O(n) | O(n)      | Easy     |
 
 <br/>
 <div align="right">
